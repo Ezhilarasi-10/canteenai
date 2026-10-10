@@ -1,0 +1,6 @@
+{
+  "name": "CanteenIQ AI — Smart Food. Smarter Campus.",
+  "description": "Smart campus canteen ordering & management platform with live crowd index, item customizations, concurrency-safe orders, payment reminders & QR pickup verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
